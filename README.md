@@ -10,6 +10,3 @@ Plugin for sending private message on servers
 ## Commands:
 To send a private message use: 
 * `!pm playername message`
-
-
-
